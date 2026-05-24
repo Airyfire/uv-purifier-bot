@@ -35,7 +35,7 @@ All sensors: **PM2.5 particle concentration**
 ## Procedure
 
 1. **Baseline** — Everything off. Record PM2.5 at all 3 sensors.
-2. **Pollute** — Burn incense for 30–60 seconds. Let disperse for 1–2 minutes.
+2. **Pollute** — Burn incense for 30–60 seconds. Let it disperse for 1–2 minutes.
 3. **Activate purifier** — Turn on HEPA purifier. Begin recording.
 4. **Record** — Log PM2.5 at all sensors every 30 seconds for 15–30 minutes.
 
