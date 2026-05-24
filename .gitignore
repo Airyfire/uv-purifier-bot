@@ -1,0 +1,11 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data files (add manually when ready to commit)
+experiments/data/*.csv
+experiments/data/*.xlsx
+
+# Editor files
+.vscode/
+*.swp
