@@ -1,16 +1,16 @@
-# 🤖 UV Air Purifier Bot
+# UV Air Purifier Bot
 
 An autonomous mobile robot that combines **HEPA filtration** and **UV-C air disinfection** to clean indoor air more effectively than stationary purifiers — by seeking out stagnant zones where pollutants accumulate.
 
 ---
 
-## 🎯 Project Goal
+## Project Goal
 
 Prove that a **moving air purifier** cleans a room faster and more thoroughly than a stationary one, especially in dead zones (corners, under desks, behind furniture) where air is most stagnant.
 
 ---
 
-## 🧪 Science Behind It
+## Science Behind It
 
 ### UV-C Disinfection
 UV-C light (200–280 nm) damages bacterial and viral DNA/RNA, stopping reproduction. It does **not** penetrate human skin, making it the safest UV band for enclosed use.
@@ -31,7 +31,7 @@ Rooms have **dead zones** — corners, under furniture — where air is naturall
 
 ---
 
-## 📁 Repo Structure
+## Repo Structure
 
 ```
 uv-purifier-bot/
@@ -51,7 +51,7 @@ uv-purifier-bot/
 
 ---
 
-## 🔬 Experiments
+## Experiments
 
 | # | Question | Status |
 |---|----------|--------|
@@ -61,7 +61,7 @@ uv-purifier-bot/
 
 ---
 
-## ⚠️ Safety First
+## Safety First
 
 - UV-C is **never exposed** directly — enclosed in the air duct at all times
 - Plastic casing absorbs stray UV-C
