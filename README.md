@@ -9,6 +9,9 @@ An autonomous mobile robot that combines **HEPA filtration** and **UV-C air disi
 Prove that a **moving air purifier** cleans a room faster and more thoroughly than a stationary one, especially in dead zones (corners, under desks, behind furniture) where air is most stagnant.
 
 ---
+## The Addition to normal purifiers
+
+The part that's new to a normal purifier is the autonomous base. I designed a mobile base to attach any air purifier to so you don't have to worry about not cleaning your entire room. Basically, it's a three wheel drive system powered by a raspberry pi to control the motors and run an autonomous program. You can attach your purifier to it on top using a strapping mechanism and connect the power chord to a battery inside. Then, start the purifier and the robot and wait for the it to scan and start working!
 
 ## Science Behind It
 
